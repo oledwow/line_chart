@@ -1,1 +1,1 @@
-export { default as namerg_line_chart } from './namerg_line_chart'
+export { default as lineChart  } from './my_line_chart'
