@@ -1,1 +1,1 @@
-export { default as hellochart } from './hellochart'
+export { default as namerg_line_chart } from './namerg_line_chart'
